@@ -102,7 +102,7 @@ frontend/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-chatbot.git
+   git clone https://github.com/kumarsantosh3914/news-chatbot.git
    cd news-chatbot/frontend
    ```
 
@@ -158,9 +158,3 @@ frontend/
    - Implement integration tests
    - Use proper mocking strategies
    - Maintain good test coverage
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 

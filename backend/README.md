@@ -128,8 +128,8 @@ The system uses a sophisticated approach to handle document embeddings and vecto
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-chatbot.git
-   cd news-chatbot
+   git clone https://github.com/kumarsantosh3914/news-chatbot.git
+   cd news-chatbot/backend
    ```
 
 2. Install dependencies:
@@ -145,11 +145,5 @@ The system uses a sophisticated approach to handle document embeddings and vecto
 
 4. Start the application:
    ```bash
-   python app/main.py
+   uvicorn app.main:app --reload
    ```
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
