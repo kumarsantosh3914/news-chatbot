@@ -2,7 +2,11 @@
 
 ## 🚀 Live Demo
 
-Check out the live News Chatbot here: [https://santosh-news-chatbot.netlify.app/](https://santosh-news-chatbot.netlify.app/)
+Check out the live News Chatbot here: [https://santosh-news-chatbot.netlify.app/](https://santosh-news-chatbot.netlify.app/
+)
+
+![Screenshot 2025-05-11 182920](https://github.com/user-attachments/assets/c9a21640-ca58-4ccb-9e0f-b6dcc557a841)
+
 
 ## Overview
 This document provides a comprehensive walkthrough of the News Chatbot system, detailing the end-to-end flow from user query to response. It covers how embeddings are created and managed, how Redis is used for caching and session history, how the frontend communicates with the backend, and highlights key design decisions and potential improvements.
