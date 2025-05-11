@@ -1,0 +1,7 @@
+[
+  {
+    "name": "NewsAPI",
+    "categories": ["general", "business", "technology", "sports", "entertainment"],
+    "type": "api"
+  }
+]
